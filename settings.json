@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "window.zoomLevel": 1,
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "launch": {
+        
+
+        "configurations": [],
+        "compounds": []
+    }
+}
